@@ -1,2 +1,1 @@
-# R-M-Andres
-BMSTU Software Engineering Student
+# LeetCode Solved Problems
